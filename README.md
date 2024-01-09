@@ -1,4 +1,5 @@
-# WebAnalytics-GoogleBigQuery
+
+<h1 align="center">WebAnalytics-GoogleBigQuery</h1>
 
 ## Overview
 
@@ -16,7 +17,7 @@ In this project, we leverage Google BigQuery's advanced capabilities to analyze 
 
 - **[Colab Notebook](Web_analytics.ipynb):** The main notebook file with code, explanations, and visualizations.
   
-- **[Dataset](https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset):** 
+- **[Dataset](https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset):** Link to the demo dataset used in the project.
 
 ## Getting Started
 
